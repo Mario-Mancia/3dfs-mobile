@@ -1,0 +1,8 @@
+<resources>
+    <!-- Tema base de la ventana; los colores de la app se definen en ui/theme (Compose) -->
+    <style name="Theme.DForge" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/fondo</item>
+    </style>
+    <color name="fondo">#FFF4FAF9</color>
+    <color name="ic_launcher_background">#FF0F6E6E</color>
+</resources>
